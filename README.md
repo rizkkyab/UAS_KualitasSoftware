@@ -1,41 +1,52 @@
-![Capture](https://user-images.githubusercontent.com/30375922/110690842-66264500-820a-11eb-84c0-337aa3ac8039.PNG)
+# UAS Website UMKM
 
-![Capture1](https://user-images.githubusercontent.com/30375922/110691345-0bd9b400-820b-11eb-955a-4ddaa36d455a.PNG)
+| M. Rizky Abdillah     |       312010386       |
+|-----------------------|-----------------------|
+|    TI.20.RPL.2        | PENJAMINAN KUALITAS SOFTWARE |
+|    DOSEN              | Ismasari Nawagsih,S.Kom.,M.Kom|
+
+```
+ADMIN
+email    :john@email.com
+password :123456
+--------------------
+USER PELANGGAN
+email    :sam@email.com
+password :123456
+
+File database SQl menggunakan nama database 'dbfood'
+--------------------
+```
+Fitur Yang Tersedia
+```
+Sisi Pengguna:
+-------------------------------------------------
+Daftar Pengguna dan Login Pengguna 
+-> Pengguna dapat memilih jenis makanan yang disukai Non Veg atau Veg 
+-> Sistem Keranjang  
+-> Status Pesanan 
+-> Batalkan Pesanan  
+
+Sisi Admin:
+-------------------------------------------------
+-> Daftar dan Masuk 
+-> Dasbor Admin 
+-> Tampilkan beberapa hidangan dengan gambar
+```
+=================================================================
+Tampilan Halaman Depan Website
+
+![Capture](https://raw.githubusercontent.com/rizkkyab/UAS_KualitasSoftware/main/Screenshot%20(285).png)
+
+Tampilan Bagian Pelanggan untuk melakukan pemesanan
+![Capture1](https://raw.githubusercontent.com/rizkkyab/UAS_KualitasSoftware/main/Screenshot%20(289).png)
+
+Tampilan Halaman Dasboard Admin
+![Capture1](https://raw.githubusercontent.com/rizkkyab/UAS_KualitasSoftware/main/Screenshot%20(286).png)
+
+Tampilan Halaman Penambaham Menu Admin
+![Capture1](https://raw.githubusercontent.com/rizkkyab/UAS_KualitasSoftware/main/Screenshot%20(287).png)
+
+Tampilan Halaman Pesanan
+![Capture1](https://raw.githubusercontent.com/rizkkyab/UAS_KualitasSoftware/main/Screenshot%20(288).png)
  
-Database SQl file included use database name 'dbfood'
-
-Features:
-
-User Side:
--------------------------------------------------
--> User Register and User Login with session \
--> User can choose food type preferece Non Veg or Veg \
--> Cart System \
--> Order Status \
--> Cancel Order \
-
-Restaurant Side: \
--------------------------------------------------
--> Register and Login \
--> Admin Dashboard \
--> Display multiple dishes with images \  
-
-===================================================
-
-Restaurant login Credentials \
-
-email              			password \
--------------------------------------------------
-john@email.com				123456 \
-hoteleden@email.com			123456 \
-ddhaba@email.com			123456 \
-
-===================================================
-User login credentials \
-
-email				password \
----------------------------------------------------
-sam@email.com			123456 \
-anish@email.com			123456 \
-rahul@email.com			123456 \
-sweta@email.com			123456 \
