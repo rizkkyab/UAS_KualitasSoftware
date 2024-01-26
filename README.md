@@ -1,4 +1,4 @@
-# UAS Website UMKM
+# UAS Website UMKM<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
 | M. Rizky Abdillah     |       312010386       |
 |-----------------------|-----------------------|
